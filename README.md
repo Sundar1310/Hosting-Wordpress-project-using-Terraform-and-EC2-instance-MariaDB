@@ -36,6 +36,25 @@ This project follows **DevOps best practices** such as automation, security, and
 - RDS MariaDB instance in private subnet
 - Security groups with controlled access
 - Key pair for secure SSH access
+- ##Screenshots
+
+<img width="1370" height="602" alt="image" src="https://github.com/user-attachments/assets/4a9c6a4f-4236-426b-8523-1a7be6bb16f3" />
+
+<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/c10a8685-9fc7-40c3-bb8a-157014bd515e" />
+
+<img width="1919" height="301" alt="image" src="https://github.com/user-attachments/assets/53604550-58a9-469e-b741-3133dac823b8" />
+
+<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/0b997587-d52d-469d-a404-23fa10da697e" />
+
+![wrd](https://github.com/user-attachments/assets/7b88bf7d-a8d4-499d-beec-b133bfbd5f46)
+
+<img width="1533" height="584" alt="s1" src="https://github.com/user-attachments/assets/3440264c-861a-4263-9340-fc98f4d90c0a" />
+
+![ss2](https://github.com/user-attachments/assets/4fd853d3-9252-42b6-a1a3-6bb6b6e459bb)
+
+![ss3](https://github.com/user-attachments/assets/34addc94-63bc-4bf1-95cd-bd17a716a7c1)
+
+![ss4](https://github.com/user-attachments/assets/6cd5250f-f054-42a1-9758-b718e6bef609)
 
 ---
 ## 🚀 How to Deploy
@@ -59,25 +78,7 @@ Dependency management and real-world troubleshooting
 
 End-to-end DevOps deployment workflow
 
-##Screenshots
 
-<img width="1370" height="602" alt="image" src="https://github.com/user-attachments/assets/4a9c6a4f-4236-426b-8523-1a7be6bb16f3" />
-
-<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/c10a8685-9fc7-40c3-bb8a-157014bd515e" />
-
-<img width="1919" height="301" alt="image" src="https://github.com/user-attachments/assets/53604550-58a9-469e-b741-3133dac823b8" />
-
-<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/0b997587-d52d-469d-a404-23fa10da697e" />
-
-![wrd](https://github.com/user-attachments/assets/7b88bf7d-a8d4-499d-beec-b133bfbd5f46)
-
-<img width="1533" height="584" alt="s1" src="https://github.com/user-attachments/assets/3440264c-861a-4263-9340-fc98f4d90c0a" />
-
-![ss2](https://github.com/user-attachments/assets/4fd853d3-9252-42b6-a1a3-6bb6b6e459bb)
-
-![ss3](https://github.com/user-attachments/assets/34addc94-63bc-4bf1-95cd-bd17a716a7c1)
-
-![ss4](https://github.com/user-attachments/assets/6cd5250f-f054-42a1-9758-b718e6bef609)
 
 
 
